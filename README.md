@@ -1,2 +1,3 @@
 # POLvAES
-POLYBIUS ve AES şifreleme yöntemi
+POLYBIUS ve AES şifreleme yönteminin birleştirilmiş hali
+
